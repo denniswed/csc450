@@ -9,7 +9,8 @@ int main() {
             << "\n"; // 10
 
   int x = 42;
-  int *px = &x;                                           // & gives address
+  int *px = &x; // & gives address
+  std::cout << "Address of x: " << px << "\n";
   std::cout << "Value of x via pointer: " << *px << "\n"; // * dereferences
 
   *px = 100; // change x through pointer
