@@ -69,3 +69,8 @@ env/
 
 # debug information files
 *.dwo
+
+# scratch
+scratch*
+scratch/
+*.tmp

@@ -1,0 +1,1 @@
+In creating C++ applications, you have the ability to utilize various formatting functions in the iostream library. What are some of the formatting vulnerabilities that can be encountered in using the iostream library in C++? What tips can be utilized to identify these vulnerabilities? Be sure to provide an appropriate source code example to illustrate your points.
