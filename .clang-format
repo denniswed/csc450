@@ -1,0 +1,14 @@
+BasedOnStyle: Google
+ColumnLimit: 160
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+BinPackParameters: false
+BinPackArguments: false
+AlignAfterOpenBracket: Align
+PointerAlignment: Left
+ReferenceAlignment: Left

@@ -1,0 +1,47 @@
+# Python Threading Demonstration - Requirements
+# Application: personal-improved.py
+# Python Version: 3.13+ (3.12+ compatible)
+# Generated: September 2025
+
+# ==============================================================================
+# RUNTIME DEPENDENCIES
+# ==============================================================================
+# This application uses only Python standard library modules:
+# - sys, time, threading, logging, typing, contextlib, dataclasses, enum, signal, pathlib
+# 
+# No external dependencies required for runtime execution.
+
+# ==============================================================================
+# DEVELOPMENT DEPENDENCIES (Optional)
+# ==============================================================================
+# Uncomment the following dependencies if you want development tools:
+
+# Code Quality & Linting
+# flake8>=6.0.0              # Style guide enforcement (PEP 8)
+# pylint>=3.0.0               # Advanced static analysis
+# mypy>=1.5.0                 # Static type checking
+# black>=23.0.0               # Code formatting
+# isort>=5.12.0               # Import sorting
+
+# Testing Framework
+# pytest>=7.4.0               # Testing framework
+# pytest-cov>=4.1.0           # Coverage reporting
+# pytest-xdist>=3.3.0         # Parallel test execution
+
+# Security Scanning
+# bandit>=1.7.5                # Security vulnerability scanner
+# safety>=2.3.0                # Known security vulnerabilities checker
+
+# Documentation
+# sphinx>=7.1.0                # Documentation generator
+# sphinx-rtd-theme>=1.3.0      # Read the Docs theme
+
+# Development Utilities  
+# pre-commit>=3.4.0            # Git pre-commit hooks
+# tox>=4.11.0                  # Testing across Python versions
+
+# ==============================================================================
+# PYTHON VERSION CONSTRAINT
+# ==============================================================================
+# This application targets Python 3.13+ but is compatible with 3.12+
+# To enforce version in pip: pip install -r requirements.txt --python-version 3.13

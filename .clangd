@@ -1,0 +1,19 @@
+CompileFlags:
+  Add:
+    - "-std=c++20"
+    - "-pthread"
+    - "-Wall"
+    - "-Wextra"
+  Remove:
+    - "-W*"
+    - "-std=*"
+Diagnostics:
+  UnusedIncludes: Strict
+  MissingIncludes: Strict
+Index:
+  Background: Build
+InlayHints:
+  Enabled: No
+  ParameterNames: Yes
+Hover:
+  ShowAKA: Yes

@@ -1,0 +1,5 @@
+# Minimal requirements.txt for personal-improved.py
+# No external dependencies required - uses Python standard library only
+
+# Python version requirement (informational)
+# python_requires>=3.12
