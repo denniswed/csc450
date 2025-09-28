@@ -1,0 +1,3 @@
+Total entries: 3
+Filtered words: 3
+Unique words: 3

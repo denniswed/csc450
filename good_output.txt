@@ -1,0 +1,11 @@
+=== Processing Results ===
+Total entries: 5
+Unique words: 5
+Filtered words (>3 chars): 5
+
+Top 5 most frequent words:
+  exit: 1 times
+  gjhkkrw: 1 times
+  ghjkw: 1 times
+  fjgw: 1 times
+  fjlggdws: 1 times
